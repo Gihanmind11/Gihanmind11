@@ -10,19 +10,19 @@
 
 <p align="center">
   <a href="https://github.com/Gihanmind11?tab=followers">
-    <img src="https://img.shields.io/github/followers/Gihanmind11?style=for-the-badge&logo=github&label=Followers&color=18181B" />
+    <img src="https://img.shields.io/github/followers/Gihanmind11?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=555555&color=18181B" />
   </a>
   <a href="https://github.com/Gihanmind11?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&color=18181B&query=$.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FGihanmind11" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=PUBLIC%20REPOS&labelColor=555555&color=18181B&query=$.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FGihanmind11" />
   </a>
   <a href="https://www.linkedin.com/in/gihanmindana11">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
   <a href="https://x.com/gihan_mindana">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" />
   </a>
   <a href="mailto:gihanmindana8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
   </a>
 </p>
 
@@ -97,10 +97,10 @@
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gihanmindana11"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/gihan_mindana"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:gihanmindana8@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Gihanmind11"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gihanmindana11"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>
+  <a href="https://x.com/gihan_mindana"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" /></a>
+  <a href="mailto:gihanmindana8@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" /></a>
+  <a href="https://github.com/Gihanmind11"><img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" /></a>
 </p>
 
 ---
