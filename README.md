@@ -6,7 +6,7 @@
 
 <br />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=600&color=38BDF8&center=true&vCenter=true&width=600&height=55&lines=%F0%9F%91%8B+Hi+there!+I'm+Gihan+Mindana;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+IT+Student+%7C+Developer;%F0%9F%92%A1+Tech+Enthusiast+%7C+Builder;%F0%9F%9B%A0%EF%B8%8F+Learning+by+Building+Everyday)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=600&color=38BDF8&center=true&vCenter=true&width=650&height=55&lines=%F0%9F%91%8B+Hi+there!+I'm+Gihan+Mindana;%F0%9F%94%8C+Aspiring+Network+Engineer+%F0%9F%8C%90;%F0%9F%93%9A+CCNA+Candidate+%7C+Exam+in+Progress;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+IT+Student+%7C+Developer;%F0%9F%92%A1+Tech+Enthusiast+%7C+Builder)
 
 <br />
 
@@ -18,6 +18,9 @@
 </a>
 <a href="https://github.com/Gihanmind11">
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=star&logoColor=white&label=Stars&labelColor=2D3748&color=F59E0B&logoWidth=20&border_radius=8&query=$.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FGihanmind11" />
+</a>
+<a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html">
+  <img src="https://img.shields.io/badge/CCNA_Candidate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=2D3748&color=1BA0D7&logoWidth=20&border_radius=8" />
 </a>
 
 <br />
@@ -53,19 +56,22 @@
    👤 NAME           →  Gihan Mindana
    📍 LOCATION       →  Galle, Sri Lanka
    🎓 EDUCATION      →  Advanced Technological Institute, Galle
+   🎯 ASPIRING ROLE  →  Network Engineer 🌐
+   📜 CERTIFICATION  →  CCNA Candidate 📚 (Exam in Progress)
    💼 ROLE           →  IT Student | Developer
-   🌱 CURRENT FOCUS  →  Networking & Infrastructure
    💡 PHILOSOPHY     →  Build it, break it, learn it
 ```
 
 </td>
 <td width="50%" align="left">
 
-- 🔭 &nbsp; Turning **ideas** into real, working software
-- 🚀 &nbsp; Deep diving into **Networking** + **TypeScript**
-- 🧠 &nbsp; Learning by **building projects**, not just reading
-- ⚡ &nbsp; Passionate about **automation** & **system design**
-- 🎯 &nbsp; 2026 Goal → Contribute more to **open source**
+- 🌐 &nbsp; **Aspiring Network Engineer** — on the path to designing & managing enterprise networks
+- 📚 &nbsp; **CCNA Candidate** — actively preparing for the 200-301 CCNA exam
+- 🔭 &nbsp; Turning **ideas** into real, working software & network solutions
+- 🚀 &nbsp; Deep diving into **Routing, Switching, TCP/IP, VLANs, ACLs, OSPF**
+- 🧠 &nbsp; Learning by **hands-on labs**, packet tracing & building projects
+- ⚡ &nbsp; Passionate about **automation** (NetDevOps) & secure system design
+- 🎯 &nbsp; 2026 Milestone → **Earn CCNA** → Land first Network Engineer role
 
 </td>
 </tr>
@@ -102,20 +108,112 @@
 ### 🛠️ Tools & Platforms
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,powershell,docker,postgres,mongodb,figma,nginx&perline=5&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,powershell,docker,postgres,mongodb,nginx,windows&perline=5&theme=dark" />
   </a>
+</p>
+
+### 🌐 Networking & NetDevOps
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu,debian,redhat,centos,ansible,prometheus,grafana,py,regex,bash&perline=5&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&border_radius=8" />
+  <img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&border_radius=8&labelColor=2D3748" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&border_radius=8" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white&border_radius=8" />
+  <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&border_radius=8&label=📚%20Studying&labelColor=2D3748" />
 </p>
 
 <br />
 
 <div align="center">
 
-| Currently Exploring 🚀 |
-|:---:|
-| 🌐 Networking & Infrastructure |
-| 🔧 System Administration |
-| 🤖 Automation & Scripting |
-| ☁️ Cloud Fundamentals |
+| Currently Exploring 🚀 | CCNA Exam Domains 📚 |
+|:---:|:---:|
+| 🌐 Routing & Switching Fundamentals | ✅ 1.0 Network Fundamentals (20%) |
+| 🔧 CCNA 200-301 Full Syllabus | ✅ 2.0 Network Access (20%) |
+| 🤖 Network Automation with Python | ✅ 3.0 IP Connectivity (25%) |
+| ☁️ Cloud & Virtualization (VMware) | ✅ 4.0 IP Services (10%) |
+| 🔒 Network Security Basics | ✅ 5.0 Security Fundamentals (15%) |
+| 📊 Wireshark Packet Analysis | ✅ 6.0 Automation & Programmability (10%) |
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="45" /> CCNA Journey
+
+<br />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CCNA-Exam_Preparation-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&border_radius=8&labelColor=2D3748" />
+<img src="https://img.shields.io/badge/Exam_Code-200--301-F59E0B?style=for-the-badge&border_radius=8&labelColor=2D3748" />
+<img src="https://img.shields.io/badge/Status-In_Progress_📚-22C55E?style=for-the-badge&border_radius=8&labelColor=2D3748" />
+
+</div>
+
+<br />
+
+### 🎯 CCNA 200-301 Study Progress
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><b>📘 Domain</b></td>
+<td align="center"><b>📊 Weight</b></td>
+<td align="center"><b>📈 Progress</b></td>
+</tr>
+<tr>
+<td>Network Fundamentals (OSI, TCP/IP, IPv4/6, Subnetting)</td>
+<td align="center"><b>20%</b></td>
+<td align="center">🟦🟦🟦🟦⬜</td>
+</tr>
+<tr>
+<td>Network Access (VLANs, STP, EtherChannel, Wireless)</td>
+<td align="center"><b>20%</b></td>
+<td align="center">🟦🟦🟦⬜⬜</td>
+</tr>
+<tr>
+<td>IP Connectivity (Routing, OSPF, EIGRP, Static)</td>
+<td align="center"><b>25%</b></td>
+<td align="center">🟦🟦🟦⬜⬜</td>
+</tr>
+<tr>
+<td>IP Services (NAT, DHCP, DNS, NTP, QoS)</td>
+<td align="center"><b>10%</b></td>
+<td align="center">🟦🟦⬜⬜⬜</td>
+</tr>
+<tr>
+<td>Security Fundamentals (ACLs, NAT, AAA, VPN, Switch Sec)</td>
+<td align="center"><b>15%</b></td>
+<td align="center">🟦🟦⬜⬜⬜</td>
+</tr>
+<tr>
+<td>Automation & Programmability (REST, JSON, Ansible, SDN)</td>
+<td align="center"><b>10%</b></td>
+<td align="center">🟦🟦⬜⬜⬜</td>
+</tr>
+</table>
+</div>
+
+<br />
+
+### 🧪 Lab Environment & Tools
+
+<div align="center">
+
+| Tool | Purpose |
+|:---:|:---|
+| 🟢 **Cisco Packet Tracer** | Core topology simulation & CCNA labs |
+| 🔵 **Wireshark** | Packet analysis & TCP/IP deep-dive |
+| 🟠 **GNS3 / EVE-NG** | Advanced multi-vendor topologies |
+| ⚫ **VMware Workstation** | Running Linux/Windows VMs, virtual routers |
+| 🐍 **Python + Netmiko** | Network automation, config scripting |
+| 🐧 **Ubuntu Server VM** | Linux networking practice, DHCP/DNS servers |
 
 </div>
 
@@ -252,7 +350,7 @@
 
 <br /><br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1500&color=94A3B8&center=true&vCenter=true&width=450&height=40&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+%40Gihanmind11;See+you+in+the+next+commit+%F0%9F%91%8B;Keep+building%2C+keep+learning+%F0%9F%9A%80)](https://github.com/Gihanmind11)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1500&color=94A3B8&center=true&vCenter=true&width=500&height=40&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+%40Gihanmind11;Routing+packets+%26+code+daily+%F0%9F%8C%90;CCNA+loading...+60%25+%E2%9C%85;See+you+in+the+next+commit+%F0%9F%91%8B;Keep+building%2C+keep+learning+%F0%9F%9A%80)](https://github.com/Gihanmind11)
 
 </div>
 
