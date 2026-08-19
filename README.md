@@ -226,8 +226,8 @@
 <div align="center">
 
 <a href="https://github.com/Gihanmind11">
-  <img height="190em" src="https://github-readme-stats.pages.dev/api?username=Gihanmind11&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=38BDF8&text_color=C9D1D9&border_radius=15&v=az9k2m" />
-  <img height="190em" src="https://github-readme-stats.pages.dev/api/top-langs?username=Gihanmind11&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15&langs_count=8&v=az9k2m" />
+  <img height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gihanmind11&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=38BDF8&text_color=C9D1D9&border_radius=15&cache_bust=20260819" />
+  <img height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Gihanmind11&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15&langs_count=8&cache_bust=20260819" />
 </a>
 
 </div>
@@ -237,7 +237,7 @@
 <div align="center">
 
 <a href="https://github.com/Gihanmind11">
-  <img src="https://streak-stats.demolab.com/?user=Gihanmind11&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=58A6FF&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=6E7681&border_radius=15&v=az9k2m" />
+  <img src="https://streak-stats.demolab.com/?user=Gihanmind11&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=58A6FF&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=6E7681&border_radius=15" />
 </a>
 
 </div>
@@ -246,7 +246,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy-ruddy.vercel.app/?username=Gihanmind11&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&bg_color=0D1117&v=az9k2m)
+![Trophies](https://github-profile-trophy-three-eta.vercel.app/?username=Gihanmind11&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&bg_color=0D1117&cache_bust=20260819)
 
 </div>
 
@@ -330,7 +330,7 @@
 
 <div align="center">
   <a href="https://github.com/Gihanmind11">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Gihanmind11&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=38BDF8&point=A78BFA&area=true&area_color=38BDF8&hide_border=true&border_radius=15&v=az9k2m" />
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Gihanmind11&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=38BDF8&point=A78BFA&area=true&area_color=38BDF8&hide_border=true&border_radius=15" />
   </a>
 </div>
 
