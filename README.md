@@ -10,6 +10,56 @@
 
 <br />
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=1BA0D7&center=true&vCenter=true&width=600&height=40&lines=%F0%9F%8C%90+Network+Topology+%E2%86%92+Building+Connections+Daily;%F0%9F%92%BB+Packet+Tracer+%E2%86%92+Labs+in+Progress;%F0%9F%94%8A+TCP%2FIP+%E2%86%92+Routing+Through+Life;%E2%9A%A1+CCNA+%E2%86%92+Almost+There+%F0%9F%8E%AF" alt="Network Typing" />
+
+</div>
+
+<br />
+
+<details>
+<summary>🌐 <b>Click to View Network Topology Animation</b></summary>
+<br />
+<div align="center">
+
+```
+          ┌─────────────┐
+     ┌───→│  INTERNET   │←───┐
+     │    └──────┬──────┘    │
+     │    ╔══════╧══════╗    │
+     │    ║   FIREWALL  ║    │
+     │    ╚══════╤══════╝    │
+     │    ┌──────┴──────┐    │
+     └───→│  CORE RTR   │←───┘
+          └──┬───────┬──┘
+     ┌───────┘       └───────┐
+╔════╧════╗           ╔══════╧═════╗
+║  SW-01 ║           ║   SW-02    ║
+╚══╤══╤══╝           ╚═══╤════╤═══╝
+ ┌─┘  └─┐          ┌────┘    └────┐
+┌┴─┐ ┌──┴─┐      ┌──┴──┐     ┌───┴──┐
+│PC│ │SRV1│      │AP-01│     │ LAB  │
+└──┘ └────┘      └─────┘     └──────┘
+   ↕     ↕          ↕            ↕
+◄──── PACKETS FLOWING ►  ◄──── PACKETS FLOWING ►
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OSPF-Running-22C55E?style=flat-square&logo=cisco&labelColor=0D1117&color=22C55E" />
+  <img src="https://img.shields.io/badge/VLAN-Trunking-38BDF8?style=flat-square&logo=cisco&labelColor=0D1117&color=38BDF8" />
+  <img src="https://img.shields.io/badge/STP-Converged-A78BFA?style=flat-square&logo=cisco&labelColor=0D1117&color=A78BFA" />
+  <img src="https://img.shields.io/badge/NAT-Active-F59E0B?style=flat-square&logo=cisco&labelColor=0D1117&color=F59E0B" />
+  <img src="https://img.shields.io/badge/ACL-Applied-F87171?style=flat-square&logo=cisco&labelColor=0D1117&color=F87171" />
+</p>
+
+![Divider](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)
+
+</div>
+</details>
+
+<br />
+
 <a href="https://github.com/Gihanmind11?tab=followers">
   <img src="https://img.shields.io/github/followers/Gihanmind11?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=2D3748&color=38BDF8&logoWidth=20&border_radius=8" />
 </a>
@@ -130,6 +180,58 @@
 <br />
 
 <div align="center">
+<details>
+<summary>📦 <b>Live Packet Transfer Animation</b></summary>
+<br />
+
+```
+CLIENT                    SERVER (192.168.1.100)
+  │ 192.168.1.10              │
+  │        ──── SYN ────→     │  ⚡ 3-Way Handshake
+  │     ←── SYN-ACK ────      │
+  │        ──── ACK ────→     │
+  │                          │
+  │   ◄══════════════════►   │
+  │   📦 DATA PACKETS FLOW   │
+  │   Seq=1000 Len=1460 →    │
+  │   Seq=2460 Len=1460 →    │
+  │   ← ACK=3920 Win=65535   │
+  │   Seq=3920 Len=1460 →    │
+  │   Seq=5380 Len=1460 →    │
+  │   ← ACK=6840 Win=65535   │
+  │                          │
+  │     ◄══════════════►     │
+  │     TLS 1.3 HANDSHAKE    │
+  │   ClientHello ────────→  │
+  │   ←────── ServerHello    │
+  │   ChangeCipherSpec →     │
+  │   ←────── NewSessionTkt  │
+  │                          │
+  │  ◄─ ENCRYPTED TRAFFIC ─► │
+  │  🔒 AES-256-GCM Active   │
+  │                          │
+  │     ──── FIN-ACK ──→     │  🔌 Teardown
+  │     ←─── ACK ─────       │
+```
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=1800&pause=300&color=22C55E&center=true&vCenter=true&width=550&height=28&lines=%E2%9C%85+TCP+Handshake+Complete+%E2%9C%85;%F0%9F%93%A6+Packets+Transmitted%3A+847%2F847;%F0%9F%94%92+TLS+1.3+Encrypted+Channel+Established;%F0%9F%9A%80+Latency%3A+12ms+%7C+Throughput%3A+940+Mbps;%F0%9F%8E%AF+Packet+Loss%3A+0.0%25" alt="Packet Flow" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Latency-12ms-22C55E?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Jitter-2ms-22C55E?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Packet_Loss-0%25-22C55E?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Throughput-940Mbps-38BDF8?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/MTU-1500-F59E0B?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/TTL-64-A78BFA?style=flat-square&labelColor=0D1117" />
+</p>
+</details>
+</div>
+
+<br />
+
+<div align="center">
 
 | Currently Exploring 🚀 | CCNA Exam Domains 📚 |
 |:---:|:---:|
@@ -158,7 +260,51 @@
 
 <br />
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=2200&pause=400&color=1BA0D7&center=true&vCenter=true&width=700&height=38&lines=%F0%9F%8E%AF+Target%3A+Pass+CCNA+200-301+on+First+Attempt;%F0%9F%9A%80+Milestone%3A+60%25+Complete+%E2%9C%85;%F0%9F%92%AA+Hands-on+Labs%3A+150%2B+Completed;%F0%9F%93%9A+Flashcards%3A+1000%2B+Reviewed;%F0%9F%A7%A0+Packet+Tracer+Hours%3A+200%2B" alt="CCNA Progress" />
+</div>
+
+<br />
+
 ### 🎯 CCNA 200-301 Study Progress
+
+<div align="center">
+
+<details>
+<summary>📊 <b>View Animated Progress Breakdown</b></summary>
+<br />
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│               CCNA 200-301 PROGRESS DASHBOARD                         │
+├─────────────────────────────────────────────────────────────────────────┤
+│  Domain 1.0 Network Fundamentals     ████████████████░░  80% ────► 20% │
+│  Domain 2.0 Network Access           ████████████░░░░░░  60% ────► 20% │
+│  Domain 3.0 IP Connectivity          ████████████░░░░░░  60% ────► 25% │
+│  Domain 4.0 IP Services              ████████░░░░░░░░░░  40% ────► 10% │
+│  Domain 5.0 Security Fundamentals    ████████░░░░░░░░░░  40% ────► 15% │
+│  Domain 6.0 Automation & Prog.       ████████░░░░░░░░░░  40% ────► 10% │
+├─────────────────────────────────────────────────────────────────────────┤
+│  OVERALL PROGRESS  ██████████████████████████░░░░░░░░░░  60%  ◄────────┤
+└─────────────────────────────────────────────────────────────────────────┘
+          ║                ║                ║                ║
+      [OSI ✅]       [VLAN ✅]       [OSPF 🔥]      [REST 📖]
+      [TCP ✅]       [STP ✅]       [EIGRP 🔥]     [JSON 📖]
+      [IPv4 ✅]      [EtherCh ✅]   [Static ✅]    [Ansible 🔜]
+      [Subnet ✅]    [Wireless 📖]  [NAT 🔥]       [SDN 🔜]
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯_Overall-60%25-38BDF8?style=for-the-badge&labelColor=0D1117&border_radius=8" />
+  <img src="https://img.shields.io/badge/🏆_Weighted_Score-57%25-F59E0B?style=for-the-badge&labelColor=0D1117&border_radius=8" />
+  <img src="https://img.shields.io/badge/⏱️_Study_Hours-200%2B-A78BFA?style=for-the-badge&labelColor=0D1117&border_radius=8" />
+  <img src="https://img.shields.io/badge/🧪_Labs_Completed-150%2B-22C55E?style=for-the-badge&labelColor=0D1117&border_radius=8" />
+</p>
+
+</details>
+</div>
+
+<br />
 
 <div align="center">
 <table>
@@ -206,15 +352,58 @@
 
 <div align="center">
 
-| Tool | Purpose |
-|:---:|:---|
-| 🟢 **Cisco Packet Tracer** | Core topology simulation & CCNA labs |
-| 🔵 **Wireshark** | Packet analysis & TCP/IP deep-dive |
-| 🟠 **GNS3 / EVE-NG** | Advanced multi-vendor topologies |
-| ⚫ **VMware Workstation** | Running Linux/Windows VMs, virtual routers |
-| 🐍 **Python + Netmiko** | Network automation, config scripting |
-| 🐧 **Ubuntu Server VM** | Linux networking practice, DHCP/DNS servers |
+| Tool | Purpose | Status |
+|:---:|:---|:---:|
+| 🟢 **Cisco Packet Tracer** | Core topology simulation & CCNA labs | ✅ **Active** |
+| 🔵 **Wireshark** | Packet analysis & TCP/IP deep-dive | ✅ **Active** |
+| 🟠 **GNS3 / EVE-NG** | Advanced multi-vendor topologies | 🔜 **Setup** |
+| ⚫ **VMware Workstation** | Running Linux/Windows VMs, virtual routers | ✅ **Active** |
+| 🐍 **Python + Netmiko** | Network automation, config scripting | 🔥 **Learning** |
+| 🐧 **Ubuntu Server VM** | Linux networking practice, DHCP/DNS servers | ✅ **Active** |
 
+</div>
+
+<br />
+
+<div align="center">
+<details>
+<summary>🌐 <b>Real-Time Network Monitor Dashboard</b></summary>
+<br />
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│              NETWORK MONITOR DASHBOARD  ◄ LIVE ►                         │
+├──────────────────────────────────────────────────────────────────────────┤
+│  ╔══════════════════╗  ╔══════════════════╗  ╔══════════════════════╗   │
+│  ║  CORE ROUTER     ║  ║  DISTRIBUTION    ║  ║  EDGE SWITCHES       ║   │
+│  ║  ─────────────   ║  ║  ─────────────   ║  ║  ──────────────      ║   │
+│  ║  CPU:   23%  ██  ║  ║  CPU:   41%  ████║  ║  Gi0/1:  ████████░   ║   │
+│  ║  MEM:   58%  ████║  ║  MEM:   39%  ███ ║  ║  Gi0/2:  █████░░░░   ║   │
+│  ║  TEMP:  42°C  ✅  ║  ║  TEMP:  47°C  ✅  ║  ║  Gi0/3:  ██░░░░░░   ║   │
+│  ╚══════════════════╝  ╚══════════════════╝  ╚══════════════════════╝   │
+├──────────────────────────────────────────────────────────────────────────┤
+│  TRAFFIC ANALYSIS        (Last 60s)                                      │
+│  IN:   ████████████████████████████████░░░░░░░░░░░░  78% ↗  847 Mbps    │
+│  OUT:  ████████████████████████░░░░░░░░░░░░░░░░░░░░  52% ↗  562 Mbps    │
+│  ◄─────────────────────────────────────────────────────────────────────► │
+│  ═══╤═══╤═══╤═══╤═══╤═══╤═══╤═══╤═══╤═══╤═══╤═══╤═══╤═══╤═══╤═══╤═══╡ │
+│  0s 5s  10s 15s 20s 25s 30s 35s 40s 45s 50s 55s 60s                      │
+├──────────────────────────────────────────────────────────────────────────┤
+│  ⚡ ACTIVE ALERTS: 0   │  🔴 DOWN: 0   │  🟡 WARNING: 0   │  🟢 OK: 24   │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=1500&pause=200&color=22C55E&center=true&vCenter=true&width=600&height=28&lines=%F0%9F%9F%A2+All+24+Nodes+Online+%E2%9C%85;%F0%9F%94%84+Uplink+Utilization%3A+78%25+%E2%86%97;%F0%9F%93%88+Throughput%3A+1.41+Gbps+Total;%F0%9F%94%A7+Last+Config+Change%3A+2h+ago;%F0%9F%9B%A1%EF%B8%8F+Next+Maintenance%3A+Saturday+02%3A00" alt="Network Monitor" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Uptime-99.98%25-22C55E?style=for-the-badge&labelColor=0D1117&border_radius=8" />
+  <img src="https://img.shields.io/badge/Devices-24%2F24_Online-22C55E?style=for-the-badge&labelColor=0D1117&border_radius=8" />
+  <img src="https://img.shields.io/badge/Bandwidth-1.41Gbps-38BDF8?style=for-the-badge&labelColor=0D1117&border_radius=8" />
+  <img src="https://img.shields.io/badge/Alerts-0_Critical-22C55E?style=for-the-badge&labelColor=0D1117&border_radius=8" />
+</p>
+</details>
 </div>
 
 ---
@@ -299,6 +488,43 @@
 
 <br />
 
+<div align="center">
+
+<details>
+<summary>🛰️ <b>Establish Secure Connection...</b></summary>
+<br />
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│           SOCIAL LINK ESTABLISHMENT PROTOCOL v1.0            │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│   📡 Broadcasting DISCOVERY packet on all channels...        │
+│   ┌──────────────────────────────────────────────────┐       │
+│   │  LinkedIn  ───►  🔐 TLS_1.3  ───►  ✅ CONNECTED  │       │
+│   │  X/Twitter ───►  🔐 TLS_1.3  ───►  ✅ CONNECTED  │       │
+│   │  Email     ───►  🔒 STARTTLS ───►  ✅ LISTENING  │       │
+│   │  GitHub    ───►  🔐 SSH-2.0  ───►  ✅ SYNCED     │       │
+│   └──────────────────────────────────────────────────┘       │
+│                                                              │
+│   🎯 TARGET: Connect with fellow network engineers & devs    │
+│   ⏱️  Response Time: Usually within 24 hours                 │
+│   🔒 Encryption: Always on & verified                        │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-🔗_Handshake_Available-0A66C2?style=for-the-badge&labelColor=0D1117&border_radius=8" />
+  <img src="https://img.shields.io/badge/X-📡_Signal_Strong-000000?style=for-the-badge&labelColor=0D1117&border_radius=8" />
+  <img src="https://img.shields.io/badge/Email-📬_Inbox_Open-EA4335?style=for-the-badge&labelColor=0D1117&border_radius=8" />
+  <img src="https://img.shields.io/badge/GitHub-🔀_Repos_Synced-181717?style=for-the-badge&labelColor=0D1117&border_radius=8" />
+</p>
+</details>
+</div>
+
+<br />
+
 <div align="center" style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;">
 
   <a href="https://www.linkedin.com/in/gihanmindana11">
@@ -344,13 +570,69 @@
 
 <br /><br />
 
+<div align="center">
+<details>
+<summary>🌐 <b>Profile Traffic Analysis</b></summary>
+<br />
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│               PROFILE NETWORK TRAFFIC ANALYZER                  │
+├─────────────────────────────────────────────────────────────────┤
+│  📊 PACKETS IN:  ██████████████████████████████░░  89% ↗        │
+│  📤 PACKETS OUT: ████████████████████████░░░░░░░░  72% ↗        │
+│  👤 UNIQUE VISITORS: ██████████████████████████░░  83% ↗        │
+│  🌍 GLOBAL REACH:   ████████████████████████░░░░  75% ↗        │
+├─────────────────────────────────────────────────────────────────┤
+│  TOP TRAFFIC SOURCES:                                           │
+│  ┌──────────────┬──────────────────────────────────┐           │
+│  │  🇱🇰  Sri Lanka   │  ████████████████████████░░░░  42% │     │
+│  │  🇺🇸  USA         │  ████████████████░░░░░░░░░░░░  28% │     │
+│  │  🇮🇳  India       │  ████████████░░░░░░░░░░░░░░░░  18% │     │
+│  │  🌏  Others      │  ████████░░░░░░░░░░░░░░░░░░░░  12% │     │
+│  └──────────────┴──────────────────────────────────┘           │
+│                                                                 │
+│  ⚡ Session Avg: 2m 14s   │   🔁 Return Rate: 64%               │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GEO-Sri_Lanka_🇱🇰_Top-F59E0B?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Sessions-Avg_2m_14s-38BDF8?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Return-64%25-22C55E?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Reach-4+_Continents-A78BFA?style=flat-square&labelColor=0D1117" />
+</p>
+</details>
+</div>
+
+<br /><br />
+
 ### 🎉 Thanks for stopping by!
 
 <sub>⭐ Don't forget to star your favorite repositories!</sub>
 
 <br /><br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1500&color=94A3B8&center=true&vCenter=true&width=500&height=40&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+%40Gihanmind11;Routing+packets+%26+code+daily+%F0%9F%8C%90;CCNA+loading...+60%25+%E2%9C%85;See+you+in+the+next+commit+%F0%9F%91%8B;Keep+building%2C+keep+learning+%F0%9F%9A%80)](https://github.com/Gihanmind11)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=800&color=1BA0D7&center=true&vCenter=true&width=650&height=35&lines=%E2%9C%85+Connection+Established+%E2%80%94+Thanks+for+visiting%21;%F0%9F%8C%90+Routing+packets+%26+code+daily+%E2%80%94+CCNA+Journey;%F0%9F%9A%80+CCNA+200-301+Loading...+60%25+Complete+%E2%9C%85;%F0%9F%92%BB+See+you+in+the+next+commit+%7C+Keep+hustling%21;%E2%9A%A1+Keep+building%2C+keep+learning+%E2%80%94+Stay+curious%21" alt="Network Footer" />
+</div>
+
+<br />
+
+<div align="center">
+
+```
+   ┌───────────────────────────────────────────────┐
+   │   ╔═══════════════════════════════════════╗   │
+   │   ║   PACKET SENT: [FIN, ACK] Seq=∞      ║   │
+   │   ║   Payload: See you in the next commit ║   │
+   │   ╚═══════════════════════════════════════╝   │
+   │         ↓                                       │
+   │   [User] ──── 200 OK ────→ [GitHub: @Gihanmind11]
+   └───────────────────────────────────────────────┘
+```
+
+</div>
 
 </div>
 
