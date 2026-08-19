@@ -81,7 +81,7 @@
 
 <div align="center">
 
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/Gihanmind11)
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&cache_bust=20260819)](https://github.com/Gihanmind11)
 
 </div>
 
@@ -247,6 +247,20 @@
 <div align="center">
 
 ![Trophies](https://github-profile-trophy-three-eta.vercel.app/?username=Gihanmind11&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&bg_color=0D1117&cache_bust=20260819)
+
+</div>
+
+<br />
+
+## 💭 Developer Thoughts Shuffle
+
+<div align="center">
+
+![Shuffling Thoughts](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=4500&pause=3500&color=94A3B8&center=true&vCenter=true&multiline=true&width=820&height=120&repeat=true&lines=Talk+is+cheap.+Show+me+the+code.++%E2%80%94+Linus+Torvalds;Any+fool+can+write+code+that+a+computer+can+understand.+++Good+programmers+write+code+that+humans+can+understand.++%E2%80%94+Martin+Fowler;First%2C+solve+the+problem.+Then%2C+write+the+code.++%E2%80%94+John+Johnson;Programs+must+be+written+for+people+to+read%2C+and+only+incidentally+for+machines+to+execute.++%E2%80%94+Harold+Abelson;Simplicity+is+the+soul+of+efficiency.++%E2%80%94+Austin+Freeman+Pope;Make+it+work%2C+make+it+right%2C+make+it+fast.++%E2%80%94+Kent+Beck;The+best+error+message+is+the+one+that+never+appears.++%E2%80%94+Thomas+Fuchs;Premature+optimization+is+the+root+of+all+evil.++%E2%80%94+Donald+Knuth;Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.++%E2%80%94+Cory+House;Networks+are+like+relationships+%E2%80%94+it%27s+all+about+the+handshake.+%F0%9F%8C%90)
+
+<br />
+
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&cache_bust=20260819)](https://github.com/Gihanmind11)
 
 </div>
 
